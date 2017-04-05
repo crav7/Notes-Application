@@ -1,0 +1,1307 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"mark",
+				"markdown_text"
+			],
+			[
+				"use",
+				"user__first_name__icontains"
+			],
+			[
+				"auto",
+				"auto_now_add"
+			],
+			[
+				"pre",
+				"pre_save_post_reciever"
+			],
+			[
+				"page",
+				"page_request_var"
+			],
+			[
+				"pag",
+				"paginator"
+			],
+			[
+				"pa",
+				"paginator"
+			],
+			[
+				"qu",
+				"queryset_list"
+			],
+			[
+				"url",
+				"urlpatterns"
+			],
+			[
+				"STAT",
+				"STATIC_URL"
+			],
+			[
+				"l",
+				"link\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"N",
+				"None"
+			],
+			[
+				"co",
+				"context"
+			],
+			[
+				"get",
+				"get_absolute_url"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"P",
+				"PostForm"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"BA",
+				"BASE_DIR"
+			],
+			[
+				"n",
+				"note_delete"
+			],
+			[
+				"a",
+				"auto_now_add"
+			],
+			[
+				"is",
+				"is_staff"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"s",
+				"sum"
+			],
+			[
+				"c",
+				"cout"
+			],
+			[
+				"D",
+				"DEBUG"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"v",
+				"vis"
+			],
+			[
+				"push",
+				"push_back"
+			],
+			[
+				"user",
+				"UserprofileForm"
+			],
+			[
+				"us",
+				"user_profile"
+			],
+			[
+				"U",
+				"UserProfile"
+			],
+			[
+				"i",
+				"input\tTag"
+			],
+			[
+				"b",
+				"button\tTag"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"C",
+				"ContactForm3"
+			],
+			[
+				"send",
+				"send_mail"
+			],
+			[
+				"for",
+				"form_data"
+			],
+			[
+				"ma",
+				"max1"
+			],
+			[
+				"as",
+				"assertIn"
+			],
+			[
+				"create",
+				"create_article"
+			],
+			[
+				"ce",
+				"created_path"
+			],
+			[
+				"cr",
+				"create_article"
+			],
+			[
+				"m",
+				"minSwaps"
+			],
+			[
+				"x",
+				"x"
+			],
+			[
+				"I",
+				"INT_MIN"
+			],
+			[
+				"Ma",
+				"max1"
+			],
+			[
+				"f",
+				"find"
+			],
+			[
+				"search",
+				"searchSuccess"
+			],
+			[
+				"fun",
+				"fun\tFunction"
+			],
+			[
+				"se",
+				"search"
+			],
+			[
+				"sc",
+				"script\tTag"
+			],
+			[
+				"ar",
+				"args"
+			],
+			[
+				"r",
+				"root"
+			],
+			[
+				"p",
+				"ptr"
+			],
+			[
+				"ne",
+				"newnode"
+			],
+			[
+				"str",
+				"str"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"R",
+				"RO"
+			],
+			[
+				"th",
+				"thumbnail"
+			],
+			[
+				"M",
+				"ModelForm"
+			],
+			[
+				"pub",
+				"pub_date"
+			],
+			[
+				"A",
+				"Article"
+			],
+			[
+				"like",
+				"like_article"
+			],
+			[
+				"H",
+				"HttpResponseRedirect"
+			],
+			[
+				"stack",
+				"stack2"
+			],
+			[
+				"t",
+				"top"
+			],
+			[
+				"cs",
+				"csum"
+			],
+			[
+				"v2",
+				"v2s"
+			],
+			[
+				"v1",
+				"v1s"
+			],
+			[
+				"US",
+				"UserCreationForm"
+			],
+			[
+				"Use",
+				"UserCreationForm"
+			],
+			[
+				"regis",
+				"register_success"
+			],
+			[
+				"d",
+				"def\tFunction"
+			],
+			[
+				"usr",
+				"username"
+			],
+			[
+				"de",
+				"dequeue"
+			],
+			[
+				"to",
+				"topElement"
+			],
+			[
+				"la",
+				"language"
+			],
+			[
+				"h",
+				"http"
+			],
+			[
+				"S",
+				"STATIC_URL"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"he",
+				"hello_template_simple"
+			],
+			[
+				"E",
+				"endl"
+			],
+			[
+				"w",
+				"webapp"
+			],
+			[
+				"athe",
+				"athletemodel"
+			],
+			[
+				"ath",
+				"athlete"
+			],
+			[
+				"connect",
+				"connection"
+			],
+			[
+				"e",
+				"each_form_item"
+			],
+			[
+				"ht",
+				"html_inputs"
+			],
+			[
+				"input",
+				"inputs_list"
+			],
+			[
+				"fo",
+				"form_data"
+			],
+			[
+				"new",
+				"newl"
+			],
+			[
+				"loc",
+				"loc1"
+			],
+			[
+				"news",
+				"newsr"
+			],
+			[
+				"bi",
+				"binarySearch"
+			],
+			[
+				"pr",
+				"printDivisors"
+			],
+			[
+				"icn",
+				"include"
+			],
+			[
+				"B",
+				"binarySearch"
+			],
+			[
+				"ps",
+				"ps2sel"
+			],
+			[
+				"Ps",
+				"PS2"
+			],
+			[
+				"q",
+				"qy"
+			],
+			[
+				"int",
+				"int64"
+			],
+			[
+				"el",
+				"element"
+			],
+			[
+				"des",
+				"desk"
+			],
+			[
+				"k",
+				"k-1"
+			],
+			[
+				"W",
+				"WC"
+			],
+			[
+				"mi",
+				"minimum"
+			],
+			[
+				"X",
+				"x"
+			],
+			[
+				"inse",
+				"insertClsr"
+			],
+			[
+				"Tr",
+				"Tree_Delete"
+			],
+			[
+				"en",
+				"endl"
+			],
+			[
+				"lef",
+				"LeftSide"
+			],
+			[
+				"left",
+				"leftsideImages"
+			],
+			[
+				"bor",
+				"border-left"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"col",
+				"colours"
+			],
+			[
+				"Me",
+				"Merge"
+			],
+			[
+				"mer",
+				"Merge_Sort"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"op",
+				"option\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/Note/admin.py",
+			"settings":
+			{
+				"buffer_size": 382,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/Note/models.py",
+			"settings":
+			{
+				"buffer_size": 1629,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/Note/views.py",
+			"settings":
+			{
+				"buffer_size": 2501,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/static/css.css",
+			"settings":
+			{
+				"buffer_size": 103,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/template/note_form.html",
+			"settings":
+			{
+				"buffer_size": 536,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/Note/forms.py",
+			"settings":
+			{
+				"buffer_size": 338,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/template/note_detail.html",
+			"settings":
+			{
+				"buffer_size": 324,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/template/base.html",
+			"settings":
+			{
+				"buffer_size": 3135,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/template/note_list.html",
+			"settings":
+			{
+				"buffer_size": 1661,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/template/messages_display.html",
+			"settings":
+			{
+				"buffer_size": 310,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/notes/settings.py",
+			"settings":
+			{
+				"buffer_size": 3495,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/Note/urls.py",
+			"settings":
+			{
+				"buffer_size": 452,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/notes/urls.py",
+			"settings":
+			{
+				"buffer_size": 1059,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 202.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/ravisharma/Desktop/Project/NotesApp",
+		"/home/ravisharma/Desktop/Project/NotesApp/src",
+		"/home/ravisharma/Desktop/Project/NotesApp/src/Note",
+		"/home/ravisharma/Desktop/Project/NotesApp/src/Note/migrations",
+		"/home/ravisharma/Desktop/Project/NotesApp/src/notes",
+		"/home/ravisharma/Desktop/Project/NotesApp/src/static",
+		"/home/ravisharma/Desktop/Project/NotesApp/src/template",
+		"/home/ravisharma/Desktop/Project/NotesApp/static_cdn"
+	],
+	"file_history":
+	[
+		"/home/ravisharma/Desktop/Project/NotesApp/src/Note/migrations/0001_initial.py",
+		"/home/ravisharma/Desktop/trydjango19/src/posts/migrations/0002_post_user.py",
+		"/home/ravisharma/Desktop/trydjango19/src/posts/models.py",
+		"/home/ravisharma/Desktop/trydjango19/src/static/css/base.css",
+		"/home/ravisharma/Desktop/trydjango19/src/posts/templatetags/__init__.py",
+		"/home/ravisharma/Desktop/trydjango19/src/posts/migrations/0001_initial.py",
+		"/home/ravisharma/Desktop/trydjango19/src/db.sqlite3",
+		"/home/ravisharma/Desktop/trydjango19/src/posts/urls.py",
+		"/home/ravisharma/Desktop/trydjango19/src/posts/forms.py",
+		"/home/ravisharma/Desktop/trydjango19/src/posts/views.py",
+		"/home/ravisharma/Desktop/trydjango19/src/trydjango19/settings.py",
+		"/home/ravisharma/Desktop/trydjango19/src/trydjango19/urls.py",
+		"/home/ravisharma/Desktop/trydjango19/src/templates/index.html",
+		"/home/ravisharma/Desktop/trydjango19/src/templates/post_form.html",
+		"/home/ravisharma/Desktop/trydjango19/src/posts/admin.py",
+		"/home/ravisharma/Desktop/trydjango19/src/posts/__init__.py",
+		"/home/ravisharma/Desktop/trydjango19/src/crud.md",
+		"/home/ravisharma/Desktop/trydjango19/trydjango19.sublime-project",
+		"/home/ravisharma/Desktop/trydjango19/pip-selfcheck.json",
+		"/media/ravisharma/work/PLAN/Contest/Hackerearth/Practise/CODEMONK/hashing/Hashing.cpp",
+		"/media/ravisharma/work/PLAN/Contest/Hackerearth/Practise/CODEMONK/hashing/Practisequestion.cpp",
+		"/media/ravisharma/work/PLAN/**********January Plan ************",
+		"/media/ravisharma/work/PLAN/Contest/Hackerearth/Practise/CODEMONK/Graph/monkandgraphproblem.cpp",
+		"/media/ravisharma/work/PLAN/Contest/Hackerearth/Practise/CODEMONK/Graph/adjacencymatrix.cpp",
+		"/media/ravisharma/work/PLAN/Contest/Hackerearth/Practise/CODEMONK/Graph/DFS.cpp",
+		"/media/ravisharma/work/PLAN/Contest/Hackerearth/Practise/CODEMONK/Graph/adjacencylist.cpp",
+		"/media/ravisharma/work/PLAN/Contest/Hackerearth/Practise/CODEMONK/Graph/monkandgraphlearning.cpp",
+		"/media/ravisharma/work/PLAN/Contest/Hackerearth/Practise/CODEMONK/Graph/Levelofeacnode.cpp",
+		"/home/ravisharma/Documents/python/django-ravi/django_test/article/templates/articles.html",
+		"/home/ravisharma/Documents/python/django-ravi/django_test/article/templates/article.html",
+		"/home/ravisharma/Documents/python/django-ravi/django_test/article/templatetags/articles_tags.py",
+		"/home/ravisharma/Documents/python/django-ravi/django_test/article/templatetags/article_tags.py",
+		"/home/ravisharma/Documents/python/django-ravi/django_test/templates/Base.html",
+		"/home/ravisharma/Documents/python/django-ravi/django_test/article/models.py",
+		"/home/ravisharma/Documents/python/django-ravi/django_test/django_test/urls.py",
+		"/home/ravisharma/Documents/python/django-ravi/django_test/django_test/local_settings.py",
+		"/home/ravisharma/Documents/python/django-ravi/django_test/django_test/settings.py",
+		"/home/ravisharma/Documents/python/django-ravi/django_test/django_test/views.py",
+		"/home/ravisharma/Documents/python/django-ravi/django_test/article/templatetags/__init__.py",
+		"/home/ravisharma/Documents/python/django-ravi/django_test/userprofile/views.py",
+		"/home/ravisharma/Documents/python/django-ravi/django_test/userprofile/urls.py",
+		"/home/ravisharma/Documents/python/django-ravi/django_test/templates/login.html",
+		"/home/ravisharma/Documents/python/django-ravi/django_test/templates/loggedin.html",
+		"/home/ravisharma/Documents/python/django-ravi/django_test/userprofile/forms.py",
+		"/home/ravisharma/Documents/python/django-ravi/django_test/userprofile/models.py",
+		"/home/ravisharma/Documents/python/django-ravi/django_test/article/templates/templatetags/__init__.py",
+		"/media/ravisharma/work/PLAN/Contest/Hackerearth/Practise/CODEMONK/Graph/Check.cpp",
+		"/media/ravisharma/work/PLAN/Contest/Hackerearth/Practise/CODEMONK/Trees/BST.cpp",
+		"/home/ravisharma/Documents/python/django-ravi/django_test/templates/done.html",
+		"/home/ravisharma/Documents/python/django-ravi/django_test/templates/contact_form.html",
+		"/home/ravisharma/Documents/python/django-ravi/django_test/userprofile/templates/profile.html",
+		"/home/ravisharma/Documents/python/django-ravi/django_test/userprofile/templates/loggedin.html",
+		"/home/ravisharma/Documents/python/django-ravi/django_test/django_test/forms.py",
+		"/media/ravisharma/work/PLAN/Contest/Codeforces/DIV2_403/C.cpp",
+		"/media/ravisharma/work/PLAN/Contest/Codeforces/DIV2_403/B.cpp",
+		"/media/ravisharma/work/PLAN/Contest/Codeforces/DIV2_403/A.cpp",
+		"/media/ravisharma/work/PLAN/Contest/Codeforces/DIV2_403/A.py",
+		"/home/ravisharma/Documents/python/django-ravi/django_test/article/tests.py",
+		"/home/ravisharma/Documents/python/django-ravi/django_test/article/urls.py",
+		"/home/ravisharma/Documents/python/django-ravi/django_test/article/forms.py",
+		"/media/ravisharma/work/PLAN/Contest/Hackerearth/Practise/CODEMONK/Trees/MaxDepth.cpp",
+		"/media/ravisharma/work/PLAN/Algorithms/DSA/BST/BST.cpp",
+		"/media/ravisharma/work/PLAN/Algorithms/DSA/Heaps/heap.cpp",
+		"/media/ravisharma/work/PLAN/Contest/Hackerearth/Practise/CODEMONK/Trees/monkandswaps.cpp",
+		"/media/ravisharma/work/PLAN/Contest/Hackerearth/Practise/CODEMONK/Trees/Diameter.cpp",
+		"/media/ravisharma/work/PLAN/Contest/Hackerearth/Practise/CODEMONK/Trees/monkandcounting.cpp",
+		"/media/ravisharma/work/PLAN/Contest/Hackerearth/Practise/CODEMONK/Trees/monkandarray.cpp",
+		"/media/ravisharma/work/PLAN/Contest/Hackerearth/Practise/CODEMONK/Trees/monkandcursedtree.cpp",
+		"/home/ravisharma/Documents/python/django-ravi/django_test/assets/js/ajax.js",
+		"/home/ravisharma/Documents/python/django-ravi/django_test/article/templates/ajax_search.html",
+		"/home/ravisharma/Documents/python/django-ravi/django_test/article/views.py",
+		"/home/ravisharma/Documents/python/django-ravi/django_test/article/api.py",
+		"/home/ravisharma/Desktop/jquery-2.0.0.min.js",
+		"/home/ravisharma/Documents/python/django-ravi/django_test/assets/js/jquery-2.0.0.min.js",
+		"/media/ravisharma/work/PLAN/Contest/Hackerearth/Practise/CODEMONK/Trees/DaimeterCopy.cpp",
+		"/home/ravisharma/Documents/python/django-ravi/django_test/article/templates/add_comment.html",
+		"/home/ravisharma/Documents/python/django-ravi/django_test/article/templates/create_article.html",
+		"/media/ravisharma/work/PLAN/Contest/Hackerearth/Practise/CODEMONK/StacksAndQueue/paranthesis.cpp",
+		"/media/ravisharma/work/PLAN/Contest/Hackerearth/Practise/CODEMONK/CheckPoint1/MonkandLuck.cpp",
+		"/media/ravisharma/work/PLAN/Contest/Hackerearth/Practise/CODEMONK/CheckPoint1/MonkandOperations.cpp",
+		"/media/ravisharma/work/PLAN/Contest/Hackerearth/Practise/CODEMONK/CheckPoint1/Monkandparanthesis.cpp",
+		"/media/ravisharma/work/PLAN/Contest/Hackerearth/Practise/CODEMONK/CheckPoint1/MonkandNumber.cpp",
+		"/media/ravisharma/work/PLAN/Contest/Hackerearth/Practise/CODEMONK/CheckPoint1/MonkandnewArray.cpp",
+		"/home/ravisharma/Documents/python/django-ravi/django_test/templates/invalid_login.html",
+		"/home/ravisharma/Documents/python/django-ravi/django_test/static/Css/default.css",
+		"/home/ravisharma/Documents/python/django-ravi/django_test/templates/register_succesfull.html",
+		"/home/ravisharma/Documents/python/django-ravi/django_test/templates/register.html",
+		"/home/ravisharma/Documents/python/django-ravi/django_test/django_test/templates/login.html",
+		"/home/ravisharma/Documents/python/django-ravi/django_test/django_test/templates/loggedin.html",
+		"/home/ravisharma/Documents/python/django-ravi/django_test/django_test/templates/invalid_login.html",
+		"/home/ravisharma/Documents/python/django-ravi/django_test/article/templates/default.css",
+		"/media/ravisharma/work/PLAN/Contest/Hackerearth/Practise/CODEMONK/NUMBERTHEORY/numbertheory1.cpp",
+		"/media/ravisharma/work/PLAN/Contest/Hackerearth/Practise/CODEMONK/NUMBERTHEORY/EulerTotientFunc.cpp",
+		"/media/ravisharma/work/PLAN/Contest/Hackerearth/Practise/CODEMONK/NUMBERTHEORY/Primechecknaive.cpp",
+		"/media/ravisharma/work/PLAN/Contest/Hackerearth/Practise/CODEMONK/Search/FindingNImo.cpp",
+		"/media/ravisharma/work/PLAN/Contest/Hackerearth/Practise/CODEMONK/Search/ternarysearch.cpp",
+		"/media/ravisharma/work/PLAN/Contest/Hackerearth/Practise/CODEMONK/StacksAndQueue/MicroandQueue.cpp",
+		"/media/ravisharma/work/PLAN/Contest/Hackerearth/Practise/CODEMONK/StacksAndQueue/CircularQueue.cpp",
+		"/media/ravisharma/work/PLAN/Contest/Hackerearth/Practise/CODEMONK/StacksAndQueue/DoubleendedQueue.cpp",
+		"/media/ravisharma/work/PLAN/Contest/Hackerearth/Practise/CODEMONK/StacksAndQueue/Queue.cpp",
+		"/media/ravisharma/work/PLAN/Contest/Hackerearth/Practise/CODEMONK/StacksAndQueue/MonkLovesFood.cpp",
+		"/media/ravisharma/work/PLAN/Contest/Hackerearth/Practise/CODEMONK/NUMBERTHEORY/numbertheory2.cpp",
+		"/media/ravisharma/work/PLAN/Contest/Hackerearth/Practise/CODEMONK/NUMBERTHEORY/practisequestiononprime.cpp",
+		"/media/ravisharma/work/PLAN/Contest/Hackerearth/Practise/CODEMONK/NUMBERTHEORY/FermatPrime.cpp",
+		"/media/ravisharma/work/PLAN/Contest/Hackerearth/Practise/CODEMONK/StacksAndQueue/Stack.cpp",
+		"/home/ravisharma/Documents/python/django-ravi/django_test/templates/default.css",
+		"/home/ravisharma/Documents/python/django-ravi/django_test/templates/article.html",
+		"/home/ravisharma/Documents/python/django-ravi/django_test/templates/hello_class.html",
+		"/home/ravisharma/Documents/python/django-ravi/django_test/templates/hello.html",
+		"/home/ravisharma/Documents/python/django-ravi/django_test/article/url.py",
+		"/home/ravisharma/Documents/Programs/HeadFirstPython/chapter10/hfwwgapp/hfwwgDB.py",
+		"/home/ravisharma/Downloads/google-cloud-sdk/platform/google_appengine/hfwwgapp/app.yaml",
+		"/media/ravisharma/work/PLAN/Contest/Hackerearth/Practise/CODEMONK/NUMBERTHEORY/practisequestion1.cpp",
+		"/home/ravisharma/Documents/Programs/HeadFirstPython/chapter10/hfwwgapp/hfwwg.py",
+		"/home/ravisharma/Downloads/google-cloud-sdk/platform/google_appengine/hfwwgapp/hfwwgDB.py",
+		"/home/ravisharma/Downloads/google-cloud-sdk/platform/google_appengine/hfwwgapp/hfwwg.py",
+		"/home/ravisharma/Downloads/google-cloud-sdk/platform/google_appengine/hfwwg.py",
+		"/home/ravisharma/Downloads/google-cloud-sdk/platform/google_appengine/app.yaml",
+		"/home/ravisharma/Downloads/google-cloud-sdk/platform/google_appengine/hfwwgDB.py",
+		"/home/ravisharma/Documents/Programs/HeadFirstPython/chapter7/webapp/cgi-bin/athletelist.py",
+		"/home/ravisharma/Documents/Programs/HeadFirstPython/chapter7/webapp/cgi-bin/athletemodel.py",
+		"/home/ravisharma/Documents/Programs/HeadFirstPython/chapter7/webapp/cgi-bin/generate_list.py",
+		"/home/ravisharma/Documents/Programs/HeadFirstPython/chapter7/webapp/cgi-bin/generate_timing_data.py",
+		"/home/ravisharma/Documents/Programs/HeadFirstPython/chapter7/webapp2/cgi-bin/generate_timing_data.py",
+		"/home/ravisharma/Downloads/google-cloud-sdk/platform/google_appengine/google/hfwwg.py",
+		"/home/ravisharma/Documents/Programs/HeadFirstPython/chapter7/webapp/cgi-bin/yate.py",
+		"/home/ravisharma/Documents/Programs/HeadFirstPython/chapter7/webapp/cgi-bin/add_timing_data.py",
+		"/home/ravisharma/Documents/Programs/HeadFirstPython/chapter7/webapp/cgi-bin/createsDBtables.py"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ajax_search",
+			"distance",
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/Note/admin.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 382,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								84,
+								84
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/Note/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1629,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1018,
+								1018
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 315.0,
+						"translation.y": 480.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/Note/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2501,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1256,
+								1256
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1680.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/static/css.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 103,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								52,
+								52
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/template/note_form.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 536,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								359,
+								359
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 480.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/Note/forms.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 338,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								196,
+								196
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/template/note_detail.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 324,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								275,
+								275
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/template/base.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3135,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1506,
+								1506
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 6240.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "src/template/note_list.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1661,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1422,
+								1422
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 240.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "src/template/messages_display.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 310,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								250,
+								250
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "src/notes/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3495,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1103,
+								1103
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1324.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "src/Note/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 452,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								277,
+								277
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 660.0,
+						"translation.y": 120.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "src/notes/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1059,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								560,
+								560
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 600.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 48.0
+	},
+	"input":
+	{
+		"height": 50.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Notes.sublime-project",
+	"replace":
+	{
+		"height": 92.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/python/django-ravi/django_test/static/Css/default.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

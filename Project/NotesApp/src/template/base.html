@@ -1,0 +1,95 @@
+{% load staticfiles %}
+<!DOCTYPE html>
+<html>
+<head>
+	<title>{% block head_title%}
+	NotePad
+	{% endblock head_title %}</title>
+	<!-- Latest compiled and minified CSS -->
+ <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+ 
+ <!-- Optional theme -->
+ <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+ 
+	<link rel="stylesheet" type="text/css" href="{% static "css.css" %}">
+	<style type="text/css">
+		{% block style %}{% endblock style %}
+	</style>
+	{%block head_extra%}
+	{% endblock head_extra%}
+</head>
+<body>
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span> 
+      </button>
+      <a class="navbar-brand" href="{% url "notes:list" %}">NotePad</a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="{% url "notes:list" %}">Home</a></li>
+        <li><a href="{% url "notes:create" %}">Create Note</a></li>
+        <li><a href="#"></a></li> 
+         
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+        <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+{%include "messages_display.html" %}
+<div class="container">
+	{% block content %}{% endblock content	%}
+</div>
+<script   src="http://code.jquery.com/jquery-1.12.2.min.js"   integrity="sha256-lZFHibXzMHo3GGeehn1hudTAP3Sc0uKXBXAzHX1sjtk="   crossorigin="anonymous"></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/marked/0.3.5/marked.min.js'></script>
+<script type="text/javascript">
+$(document).ready(function(){
+	$(".content-markdown").each(function(){
+		var content=$(this).text()
+		console.log(content)
+		var markedContent=marked(content)
+		$(this).html(markedContent)
+
+	})
+	var contentInput = $("#id_content");
+ 
+     function setContent(value){
+         var markedContent = marked(value)
+         $("#preview-content").html(markedContent)
+         $("#preview-content img").each(function(){
+             $(this).addClass("img-responsive")
+         })
+     }
+     setContent(contentInput.val())
+ 
+     contentInput.keyup(function(){
+         var newContent = $(this).val()
+         setContent(newContent)
+     })
+ 
+     var titleInput = $("#id_title");
+     
+ 
+ 
+     function setTitle(value) {
+         $("#preview-title").text(value)
+     }
+     setTitle(titleInput.val())
+ 
+    titleInput.keyup(function(){
+         var newContent = $(this).val()
+         setTitle(newContent)
+     })
+})
+
+
+</script>
+</body>
+</html>
