@@ -11,6 +11,9 @@ from .models import Note
 from .forms import PostForm
 from django.db.models import Q 
 
+'''
+ Views for notes: create,update,details,delete
+'''
 
 def note_create(request):
 	if not request.user.is_staff or not request.user.is_superuser:

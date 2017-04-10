@@ -21,7 +21,7 @@ from django.contrib import admin
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
-    url(r'^notes/',include("Note.urls",namespace='notes')),
+    url(r'^',include("Note.urls",namespace='notes')),
 ]
 
 if settings.DEBUG:

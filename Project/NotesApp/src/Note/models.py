@@ -8,7 +8,7 @@ from django.conf import settings
 from django.utils.safestring import mark_safe
 from markdown_deux import markdown
 # Create your models here.
-
+# Model for Notes
 class Note(models.Model):
 	title=models.CharField(max_length=100)
 	content=models.TextField()
@@ -21,22 +21,25 @@ class Note(models.Model):
 		return self.title
 	def __str__(self):
 		return self.title
-
+	# function for creating Url for details of notes and updates 
 	def get_absolute_url(self):
 		return reverse("notes:detail",kwargs={"slug": self.slug})
 	def get_absolute_url_edit(self):
 		return reverse("notes:update",kwargs={"slug": self.slug})
+	def get_absolute_url_del(self):
+		return reverse("notes:delete",kwargs={"slug": self.slug})
 
 
 	class Meta:
 		ordering=["timestamp"]
-
+	# returns markdown content
 	def get_markdown(self):
 		content=self.content
 		markdown_text= markdown(content)
 		return mark_safe(markdown_text)
 
 
+# replacintg ids with slugs 
 def create_slug(instance,new_slug=None):
 	slug=slugify(instance.title)
 	if new_slug is not None:
@@ -51,6 +54,6 @@ def create_slug(instance,new_slug=None):
 def pre_save_post_reciever(sender,instance,*args,**kwargs):
 	if not instance.slug:
 		instance.slug=create_slug(instance)
-
+# it runs in the starting 
 pre_save.connect(pre_save_post_reciever,sender=Note)
 

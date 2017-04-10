@@ -15,6 +15,6 @@ urlpatterns = [
 		url(r'^create/$',note_create,name='create'),
 		url(r'^(?P<slug>[\w-]+)/$',note_detail,name='detail'),
 		url(r'^(?P<slug>[\w-]+)/edit/$',note_update,name='update'),
-		url(r'^(?P<slug>[\w-]+)/delete/$',note_delete),
+		url(r'^(?P<slug>[\w-]+)/delete/$',note_delete,name='delete'),
 
 ]

@@ -3,9 +3,9 @@
 
 {% block content %}
 
-<div class='col-sm-6-sm-offset-3'>
+<div class='col-sm-9'>
 <h1>{{title}}</h1>
-<div class='col-sm-6-sm-offset-3'>
+<div class='col-sm-9'>
 <form method="GET" action="">
 	<div class="input-group">
 	<input type="text" class="form-control" name="q" placeholder="Search Notes" value='{{request.GET.q}}'/>
@@ -16,6 +16,7 @@
       </div>
 </form>
 </div>
+
 {% for obj in object_list %}
 <div class="row">
 <div class="thumbnail">
@@ -26,9 +27,8 @@
 	<p class='content-markdown'>{{obj.get_markdown}}</p><br/>
 	<div class="container">
 	<div class=" btn-group-horizontal">
-	<a href="{{obj.get_absolute_url}}"class="btn btn-primary" role="button">View</a>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="{{obj.get_absolute_url_edit}}"class="btn btn-primary" role="button">Edit</a>	
+	<a href="{{obj.get_absolute_url}}"class=" pull-left btn btn-primary" role="button">View</a>
+			
 	</div>
 	</div>
 	
